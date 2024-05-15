@@ -1,10 +1,12 @@
+*Assessment ReadMe File*
+
 **Employee Attrition Prediction using Machine Learning**
 This repository contains a machine learning project focused on predicting employee attrition using the IBM HR Analytics Employee Attrition & Performance dataset. The project involves data preprocessing, model development, evaluation, and optimization.
 
-#Dataset Overview
+**Dataset Overview**
 The dataset includes various attributes related to employee demographics, job roles, satisfaction levels, performance ratings, and an attrition indicator (Yes or No).
 
-#Process
+**Process**
 Data Preprocessing
 
 Handled missing values using forward fill (ffill) method.
@@ -36,7 +38,7 @@ Conduct regular employee satisfaction surveys.
 Implement personalized retention strategies.
 Foster a positive work environment and provide professional development opportunities.
 
-#Conclusion
+**Conclusion**
 The predictive models developed in this project provide insights into factors influencing employee attrition. By leveraging machine learning techniques and optimization methods, organizations can proactively mitigate attrition risks and enhance employee retention strategies.
 
 This README provides a summary of the project, including its objectives, methodology, key findings, and recommendations.
