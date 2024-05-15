@@ -1,4 +1,4 @@
-*Assessment ReadMe File*
+# Assessment ReadMe File
 
 **Employee Attrition Prediction using Machine Learning**
 This repository contains a machine learning project focused on predicting employee attrition using the IBM HR Analytics Employee Attrition & Performance dataset. The project involves data preprocessing, model development, evaluation, and optimization.
