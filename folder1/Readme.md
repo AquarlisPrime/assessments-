@@ -15,19 +15,22 @@ Split the dataset into training (80%) and testing (20%) sets.
 Model Development and Evaluation
 
 Utilized two classifiers:
+
 Random Forest Classifier
-Achieved an accuracy of XX%, precision of XX%, recall of XX%, and F1-score of XX%.
+Achieved an accuracy of 0.8776%, precision of 0.8000 , Recall: 0.1026, F1-score: 0.1818.
+
 Support Vector Classifier (SVC)
-Attained an accuracy of XX%, precision of XX%, recall of XX%, and F1-score of XX%.
+Attained an Accuracy: 0.8810, Precision: 1.0000, Recall: 0.1026, F1-score: 0.1860.
+
 Model Optimization
 
 Tuned hyperparameters for the Random Forest Classifier using GridSearchCV.
-Optimized model achieved a cross-validation accuracy of XX%.
+
 Insights and Recommendations
 Key Findings
 
 Employee satisfaction levels and job roles were significant predictors of attrition.
-Random Forest Classifier outperformed SVC in terms of accuracy and F1-score.
+SVC outperformed Random Forest Classifier in terms of accuracy and F1-score.
 Challenges Encountered
 
 Addressing class imbalance.
